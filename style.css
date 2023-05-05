@@ -1,0 +1,98 @@
+
+
+.app-body { 
+	background-color:rgba(255, 255, 255, 1);
+	width:812px;
+	height:1194px;
+	position:absolute;
+	left:346px;
+	top:0px;
+}
+.btm-frame { 
+	background-color:rgba(241.18749797344208, 32.158327996730804, 32.158327996730804, 0.7200000286102295);
+	width:812px;
+	height:867px;
+	position:absolute;
+	left:0px;
+	top:327px;
+}
+.top-frame { 
+	background-color:rgba(173.36016476154327, 176.1582586169243, 243.31249594688416, 1);
+	width:812px;
+	height:327px;
+	position:absolute;
+	left:0px;
+	top:0px;
+}
+.title { 
+	color:rgba(59.50000025331974, 53.30208443105221, 53.30208443105221, 1);
+	width:390px;
+	height:40px;
+	position:absolute;
+	left:211px;
+	top:118px;
+	font-family:Inria Serif;
+	text-align:left;
+	font-size:32px;
+	letter-spacing:0;
+}
+.result { 
+	background-color:rgba(217.0000022649765, 217.0000022649765, 217.0000022649765, 1);
+	width:325px;
+	height:325px;
+	position:absolute;
+	left:242px;
+	top:215px;
+    border-radius: 50%;
+}
+
+
+.rent { 
+	background-color:rgba(217.0000022649765, 217.0000022649765, 217.0000022649765, 1);
+	width:258px;
+	height:113px;
+	position:absolute;
+	left:35px;
+	top:597px;
+}
+.cleaning { 
+	background-color:rgba(217.0000022649765, 217.0000022649765, 217.0000022649765, 1);
+	width:258px;
+	height:113px;
+	position:absolute;
+	left:35px;
+	top:797px;
+}
+.occ-rate { 
+	background-color:rgba(217.0000022649765, 217.0000022649765, 217.0000022649765, 1);
+	width:258px;
+	height:113px;
+	position:absolute;
+	left:277px;
+	top:997px;
+}
+.util { 
+	background-color:rgba(217.0000022649765, 217.0000022649765, 217.0000022649765, 1);
+	width:258px;
+	height:113px;
+	position:absolute;
+	left:520px;
+	top:797px;
+}
+.supplies { 
+	background-color:rgba(217.0000022649765, 217.0000022649765, 217.0000022649765, 1);
+	width:258px;
+	height:113px;
+	position:absolute;
+	left:520px;
+	top:597px;
+}
+.profit-percent { 
+	border-radius:500px;
+	background-color:rgba(241.18749797344208, 32.158327996730804, 32.158327996730804, 0.7200000286102295);
+	width:144px;
+	height:73px;
+	position:absolute;
+	left:334px;
+	top:451px;
+}
