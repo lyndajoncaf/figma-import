@@ -44,6 +44,14 @@
 	left:242px;
 	top:215px;
     border-radius: 50%;
+	text-align: center;
+	 
+}
+
+#result-txt {
+	display: inline-block;
+	margin-top: 33%;
+
 }
 
 
@@ -88,7 +96,7 @@
 	top:597px;
 }
 .profit-percent { 
-	border-radius:500px;
+	border-radius:50px;
 	background-color:rgba(241.18749797344208, 32.158327996730804, 32.158327996730804, 0.7200000286102295);
 	width:144px;
 	height:73px;
@@ -96,3 +104,11 @@
 	left:334px;
 	top:451px;
 }
+
+.rent, .cleaning, .occ-rate, .util, .supplies, .title {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+  }
+  
+
