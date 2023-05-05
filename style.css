@@ -98,7 +98,7 @@
 .profit-percent { 
 	border-radius:50px;
 	background-color:rgba(241.18749797344208, 32.158327996730804, 32.158327996730804, 0.7200000286102295);
-	width:144px;
+	width:140px;
 	height:73px;
 	position:absolute;
 	left:334px;
@@ -109,6 +109,12 @@
 	display: flex;
 	align-items: center;
 	justify-content: center;
+	border-radius: 10px;
   }
   
-
+.profit-percent {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	border-radius: 50%;
+}
